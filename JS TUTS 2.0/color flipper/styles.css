@@ -1,0 +1,26 @@
+.container {
+    width: 75%;
+    text-align: center;
+    flex: auto;
+    margin-top: 15%;
+    text-align: center;
+    padding: 10px;
+    /*align-items: center;*/
+    box-sizing: border-box;
+    display: block;
+}
+
+.container h1 {
+    text-transform: capitalize;
+    border: white 2px solid;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    background: #373839;
+}
+
+.container button {
+    margin-top: 25px;
+    border: black solid 2px;
+    /* border-inline-color: blue; */
+}

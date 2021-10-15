@@ -1,0 +1,39 @@
+body {
+    flex-wrap: wrap;
+    text-shadow: black 1px 2px;
+    color: white;
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    font-family: serif;
+    flex-direction: column;
+    min-height: 95vh;
+    background-image: url("https://i.pinimg.com/originals/de/1d/df/de1ddf9ee30e08e15460626b919ef87e.jpg");
+}
+
+h1 {
+    word-wrap: wrap;
+    text-align: center;
+    text-shadow: black 4px 4px;
+    /* text-decoration: underline; */
+}
+
+.container {
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 4%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.big-text {
+    font-size: 6rem;
+    line-height: 1.5;
+    margin: 0 2rem;
+}
+
+.spanc {
+    text-align: center;
+}

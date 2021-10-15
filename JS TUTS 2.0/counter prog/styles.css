@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+    margin: 9% auto;
+}
+
+.container h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    /* font-weight: 0px; */
+    padding: 10px;
+    color: black;
+    text-shadow: grey 3px 3px;
+}
+
+.container span {
+    text-align: center;
+    padding: 20px;
+    font-size: 100px;
+}
+
+.btn-container {
+    text-align: center;
+}
+
+.btn-container button {
+    margin: 8px;
+    border: black solid 2px;
+}
